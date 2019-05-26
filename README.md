@@ -1,5 +1,5 @@
 # cdda-base.github.io
 a platform to share your mods
 
-if you want to submit your mods, please go there: https://github.com/cdda-base/mods/blub/master/  
-如果你想要分享你的mod，请去这里：https://github.com/cdda-base/mods/blub/master/
+if you want to submit your mods, please go there: https://github.com/cdda-base/modspage/blub/master/  
+如果你想要分享你的mod，请去这里：https://github.com/cdda-base/modspage/blub/master/
